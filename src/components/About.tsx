@@ -23,7 +23,7 @@ export default function About() {
               <div className="relative group">
                 <div className="absolute -inset-1 bg-gradient-to-r from-[#D4AF37]/30 to-[#C9A66B]/30 rounded-3xl blur opacity-50 group-hover:opacity-75 transition duration-500"></div>
                 <img
-                  src="/images/whatsapp_image_2025-12-16_at_20.45.02.jpeg"
+                  src="whatsapp_image_2025-12-16_at_20.45.04_(2).jpeg"
                   alt="Bianca Moura"
                   className="relative rounded-3xl shadow-lg w-full h-auto object-cover transition-transform duration-500 group-hover:scale-[1.02]"
                 />
