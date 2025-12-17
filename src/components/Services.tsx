@@ -1,21 +1,21 @@
 const services = [
   {
-    name: 'Volume Brasileiro',
+    name: 'Volume Express',
     price: 'R$ 165,00',
     image: '/images/whatsapp_image_2025-12-16_at_20.44.16.jpeg',
   },
   {
-    name: 'Volume Fox',
+    name: 'Volume Brasileiro',
     price: 'R$ 165,00',
     image: '/images/whatsapp_image_2025-12-16_at_20.45.04_(1).jpeg',
   },
   {
-    name: 'Volume Fox Marrom',
+    name: 'Volume Europeu',
     price: 'R$ 165,00',
     image: '/images/whatsapp_image_2025-12-16_at_20.45.04.jpeg',
   },
   {
-    name: 'Volume Europeu',
+    name: 'Volume Fox Marrom',
     price: 'R$ 165,00',
     image: '/images/whatsapp_image_2025-12-16_at_20.44.16.jpeg',
   },
@@ -25,8 +25,13 @@ const services = [
     image: '/images/whatsapp_image_2025-12-16_at_20.45.04_(1).jpeg',
   },
   {
-    name: 'Volume Express',
-    price: 'R$ 165,00',
+    name: 'Mega Volume',
+    price: 'R$ 220,00',
+    image: '/images/whatsapp_image_2025-12-16_at_20.45.04.jpeg',
+  }, 
+  {
+    name: 'Mega Volume',
+    price: 'R$ 220,00',
     image: '/images/whatsapp_image_2025-12-16_at_20.45.04.jpeg',
   },
 ];
