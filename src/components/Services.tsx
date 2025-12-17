@@ -2,7 +2,7 @@ const services = [
   {
     name: 'Volume Express',
     price: 'R$ 165,00',
-    image: '/images/whatsapp_image_2025-12-16_at_20.44.16.jpeg',
+    image: 'whatsapp_image_2025-12-16_at_20.45.04_(1).jpeg',
   },
   {
     name: 'Volume Brasileiro',
